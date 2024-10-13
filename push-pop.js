@@ -24,6 +24,10 @@ console.log(friends)
 // another one pop example
 const out1 = friends.pop();
 console.log(friends);
-const out1 = friends.pop();
+const out2 = friends.pop();
 friends.pop();
-console.log(friends)
+console.log(friends);
+console.log(out1,out2);
+
+
+// how to 1st element push pop 
